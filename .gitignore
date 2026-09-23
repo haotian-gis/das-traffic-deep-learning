@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+
+# Data, weights and outputs (not redistributed)
+data/
+outputs/
+weights/
+runs/
+*.pt
+*.npy
+*.csv
+*.tdms
+*.kmz
+*.geojson
+
+.DS_Store
+.idea/
+.vscode/

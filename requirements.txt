@@ -1,0 +1,9 @@
+# Python >= 3.9
+numpy
+scipy
+pandas>=1.5
+opencv-python
+ultralytics      # YOLOv8 / YOLO11 / RT-DETR (installs torch)
+pyyaml
+geopandas        # geometry.py
+shapely
